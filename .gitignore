@@ -1,0 +1,58 @@
+# Environment secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+*.egg
+*.egg-info/
+*.dist-info/
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+output.csv
+*.zip
+full_output.txt
+pipeline_output.txt
+run_output.txt
+official_repo
+
+output.csv
+*.zip
+full_output.txt
+pipeline_output.txt
+run_output.txt
+official_repo
+.env

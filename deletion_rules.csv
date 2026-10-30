@@ -1,0 +1,3 @@
+rule_id,description
+RULE-001,All personal data must be deleted upon user request unless legally retained.
+RULE-002,Financial records must be retained for 7 years per tax regulations.

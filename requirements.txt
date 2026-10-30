@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+openai
+pytesseract
+python-dotenv
+tenacity
+pydantic
+python-multipart
